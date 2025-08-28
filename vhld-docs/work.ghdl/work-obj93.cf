@@ -1,0 +1,151 @@
+v 3
+file "C:\Users\User\Documents\vhld-docs\Procesador\" "Procesador_tb.vhd" "20240607195544.000" "20240607125938.205":
+  entity procesador_tb at 14( 405) + 0 on 3159;
+  architecture behavior of procesador_tb at 21( 519) + 0 on 3160;
+file "C:\Users\User\Documents\vhld-docs\Registros\" "Registros_tb.vhd" "20240509031210.000" "20240510112955.657":
+  entity registros_tb at 15( 350) + 0 on 2597;
+  architecture testbench of registros_tb at 22( 513) + 0 on 2598;
+file "C:\Users\User\Documents\vhld-docs\ALU2\" "ALU2.vhd" "20240606093444.000" "20240606023757.358":
+  entity alu2 at 15( 365) + 0 on 2745;
+  architecture arq1 of alu2 at 30( 916) + 0 on 2746;
+file "C:\Users\User\Documents\vhld-docs\RegFetch\" "RegFetch_tb.vhd" "20240503193854.000" "20240606023755.129":
+  entity regfetch_tb at 15( 376) + 0 on 2743;
+  architecture testbench of regfetch_tb at 22( 537) + 0 on 2744;
+file "C:\Users\User\Documents\vhld-docs\RegFetch\" "RegFetch.vhd" "20240606093752.000" "20240606023754.985":
+  entity regfetch at 14( 372) + 0 on 2741;
+  architecture arq1 of regfetch at 25( 627) + 0 on 2742;
+file "C:\Users\User\Documents\vhld-docs\ALU\" "ALU.vhd" "20240509025632.000" "20240508202055.063":
+  entity alu at 15( 363) + 0 on 2435;
+  architecture arq1 of alu at 27( 675) + 0 on 2436;
+file "C:\Users\User\Documents\vhld-docs\Booth\" "Booth.vhd" "20240405004616.000" "20240404174617.025":
+  entity booth at 15( 367) + 0 on 2011;
+  architecture arq1 of booth at 25( 642) + 0 on 2012;
+file "C:\Users\User\Documents\vhld-docs\MUX\" "MUX.vhd" "20240315193528.000" "20240318163526.490":
+  entity ttl74157_4to1_mux at 15( 377) + 0 on 1661;
+  architecture behavioral of ttl74157_4to1_mux at 25( 609) + 0 on 1662;
+file "C:\Users\User\Documents\vhld-docs\sum2b\" "sum2b_tb.vhd" "20240315093914.000" "20240315030155.829":
+  entity sum2b_tb at 15( 384) + 0 on 1113;
+  architecture testbench of sum2b_tb at 22( 536) + 0 on 1114;
+file "C:\Users\User\Documents\vhld-docs\sum2b\" "sum2b.vhd" "20240315093854.000" "20240315030155.566":
+  entity sum2b at 15( 381) + 0 on 1111;
+  architecture arq1 of sum2b at 24( 581) + 0 on 1112;
+file "C:\Users\User\Documents\vhld-docs\Complemento2\" "Complemento2_tb.vhd" "20240318233138.000" "20240318163829.694":
+  entity complemento2_tb at 14( 380) + 0 on 1683;
+  architecture testbench of complemento2_tb at 21( 549) + 0 on 1684;
+file "C:\Users\User\Documents\vhld-docs\SumadorBCD\" "SumadorBCD_tb.vhd" "20240315043842.000" "20240314215732.943":
+  entity sumadorbcd_tb at 15( 380) + 0 on 907;
+  architecture testbench of sumadorbcd_tb at 22( 545) + 0 on 908;
+file "C:\Users\User\Documents\vhld-docs\SumadorBCD\" "SumadorBCD.vhd" "20240315045732.000" "20240314215732.712":
+  entity sumadorbcd at 15( 377) + 0 on 905;
+  architecture arq1 of sumadorbcd at 26( 655) + 0 on 906;
+file "C:\Users\User\Documents\vhld-docs\TTL7432\" "TTL7432_tb.vhd" "20240315030526.000" "20240314200527.198":
+  entity ttl7432_tb at 16( 422) + 0 on 799;
+  architecture behavioral of ttl7432_tb at 22( 504) + 0 on 800;
+file "C:\Users\User\Documents\vhld-docs\TTL7408\" "TTL7408_tb.vhd" "20240315030112.000" "20240314200113.197":
+  entity ttl7408_tb at 16( 423) + 0 on 787;
+  architecture behavioral of ttl7408_tb at 22( 505) + 0 on 788;
+file "C:\Users\User\Documents\vhld-docs\TTL7408\" "TTL7408.vhd" "20240315030018.000" "20240314200113.090":
+  entity and_gate at 16( 405) + 0 on 785;
+  architecture behavioral of and_gate at 25( 572) + 0 on 786;
+file "C:\Users\User\Documents\vhld-docs\TTL7411\" "TTL7411.vhd" "20240315025700.000" "20240314195722.990":
+  entity and3 at 16( 405) + 0 on 771;
+  architecture behavioral of and3 at 26( 593) + 0 on 772;
+file "C:\Users\User\Documents\vhld-docs\EjemploTransf\" "EjemploTransf_tb.vhd" "20240306201908.000" "20240306121909.181":
+  entity ejemplotransf_tb at 15( 386) + 0 on 471;
+  architecture testbench of ejemplotransf_tb at 22( 557) + 0 on 472;
+file "C:\Users\User\Documents\vhld-docs\EjemploTransf\" "EjemploTransf.vhd" "20240306200716.000" "20240306121908.927":
+  entity ejemplotransf at 15( 397) + 0 on 469;
+  architecture arq1 of ejemplotransf at 26( 688) + 0 on 470;
+file "C:\Users\User\Documents\vhld-docs\TTL74194\" "TTL74194_tb.vhd" "20240221202250.000" "20240221122251.087":
+  entity ttl74194_tb at 15( 390) + 0 on 377;
+  architecture testbench of ttl74194_tb at 22( 558) + 0 on 378;
+file "C:\Users\User\Documents\vhld-docs\TTL74194\" "TTL74194.vhd" "20240221202008.000" "20240221122251.005":
+  entity ttl74194 at 15( 387) + 0 on 375;
+  architecture arq1 of ttl74194 at 25( 675) + 0 on 376;
+file "C:\Users\User\Documents\vhld-docs\TTL7474\" "TTL7474.vhd" "20240221191428.000" "20240221111804.110":
+  entity ttl7474 at 15( 371) + 0 on 323;
+  architecture arq1 of ttl7474 at 24( 600) + 0 on 324;
+file "C:\Users\User\Documents\vhld-docs\SumaResta\" "SumaResta_tb.vhd" "20240315095726.000" "20240315030131.998":
+  entity sumaresta_tb at 16( 378) + 0 on 1097;
+  architecture testbench of sumaresta_tb at 23( 541) + 0 on 1098;
+file "C:\Users\User\Documents\vhld-docs\SumaResta\" "SumaResta.vhd" "20240315095644.000" "20240315030131.716":
+  entity sumaresta at 15( 361) + 0 on 1095;
+  architecture arq1 of sumaresta at 27( 647) + 0 on 1096;
+file "C:\Users\User\Documents\vhld-docs\TTL7483\" "TTL7483_tb.vhd" "20240318221238.000" "20240318163820.329":
+  entity ttl7483_tb at 15( 373) + 0 on 1671;
+  architecture testbench of ttl7483_tb at 22( 532) + 0 on 1672;
+file "C:\Users\User\Documents\vhld-docs\TTL7486\" "TTL7486_tb.vhd" "20240315035224.000" "20240315013222.776":
+  entity ttl7486_tb at 15( 374) + 0 on 951;
+  architecture testbench of ttl7486_tb at 22( 533) + 0 on 952;
+file "C:\Users\User\Documents\vhld-docs\TTL7404\" "TTL7404_tb.vhd" "20240315023816.000" "20240607114852.118":
+  entity ttl7404_tb at 15( 370) + 0 on 3019;
+  architecture testbench of ttl7404_tb at 22( 529) + 0 on 3020;
+file "C:\Users\User\Documents\vhld-docs\TTL7404\" "TTL7404.vhd" "20240315033542.000" "20240607114851.983":
+  entity ttl7404 at 15( 370) + 0 on 3017;
+  architecture arq1 of ttl7404 at 25( 650) + 0 on 3018;
+file "C:\Users\User\Documents\vhld-docs\TTL7486\" "TTL7486.vhd" "20240315073742.000" "20240315013222.503":
+  entity ttl7486 at 15( 370) + 0 on 949;
+  architecture arq1 of ttl7486 at 24( 633) + 0 on 950;
+file "C:\Users\User\Documents\vhld-docs\TTL7483\" "TTL7483.vhd" "20240318233140.000" "20240318163820.167":
+  entity ttl7483 at 15( 370) + 0 on 1669;
+  architecture arq1 of ttl7483 at 24( 613) + 0 on 1670;
+file "C:\Users\User\Documents\vhld-docs\TTL7474\" "TTL7474_tb.vhd" "20240221191654.000" "20240221111804.231":
+  entity ttl7474_tb at 14( 373) + 0 on 325;
+  architecture testbench of ttl7474_tb at 21( 532) + 0 on 326;
+file "C:\Users\User\Documents\vhld-docs\SumadorRestadorBCD\" "SumadorRestadorBCD.vhd" "20240315011612.000" "20240314190512.278":
+  entity bcd_adder_subtractor at 14( 392) + 0 on 727;
+  architecture behavioral of bcd_adder_subtractor at 26( 814) + 0 on 728;
+file "C:\Users\User\Documents\vhld-docs\SumadorRestadorBCD\" "SumadorRestadorBCD_tb.vhd" "20240315020510.000" "20240314190512.382":
+  entity sumadorrestadorbcd_tb at 15( 396) + 0 on 729;
+  architecture testbench of sumadorrestadorbcd_tb at 22( 533) + 0 on 730;
+file "C:\Users\User\Documents\vhld-docs\TTL7411\" "TTL7411_tb.vhd" "20240315025718.000" "20240314195723.116":
+  entity ttl7411_tb at 16( 423) + 0 on 773;
+  architecture behavioral of ttl7411_tb at 22( 505) + 0 on 774;
+file "C:\Users\User\Documents\vhld-docs\TTL7432\" "TTL7432.vhd" "20240315030510.000" "20240314200527.082":
+  entity or_gate at 16( 404) + 0 on 797;
+  architecture behavioral of or_gate at 25( 569) + 0 on 798;
+file "C:\Users\User\Documents\vhld-docs\FiltroBCD\" "FiltroBCD.vhd" "20240315194218.000" "20240315124219.100":
+  entity filtrobcd at 15( 375) + 0 on 1413;
+  architecture arq1 of filtrobcd at 25( 589) + 0 on 1414;
+file "C:\Users\User\Documents\vhld-docs\FiltroBCD\" "FiltroBCD_tb.vhd" "20240315082912.000" "20240315124219.441":
+  entity filtrobcd_tb at 15( 378) + 0 on 1415;
+  architecture testbench of filtrobcd_tb at 22( 541) + 0 on 1416;
+file "C:\Users\User\Documents\vhld-docs\Complemento2\" "Complemento2.vhd" "20240318233136.000" "20240318163829.552":
+  entity complemento2 at 15( 381) + 0 on 1681;
+  architecture arq1 of complemento2 at 25( 603) + 0 on 1682;
+file "C:\Users\User\Documents\vhld-docs\SumaRestaBCD\" "SumaRestaBCD.vhd" "20240320023206.000" "20240319194725.070":
+  entity sumarestabcd at 14( 380) + 0 on 1781;
+  architecture arq1 of sumarestabcd at 26( 671) + 0 on 1782;
+file "C:\Users\User\Documents\vhld-docs\SumaRestaBCD\" "SumaRestaBCD_tb.vhd" "20240319001022.000" "20240319194725.371":
+  entity sumarestabcd_tb at 15( 384) + 0 on 1783;
+  architecture testbench of sumarestabcd_tb at 22( 553) + 0 on 1784;
+file "C:\Users\User\Documents\vhld-docs\MUX\" "MUX_tb.vhd" "20240318233524.000" "20240318163526.622":
+  entity mux_tb at 15( 366) + 0 on 1663;
+  architecture behavioral of mux_tb at 21( 440) + 0 on 1664;
+file "C:\Users\User\Documents\vhld-docs\Multiplicador\" "Multiplicador.vhd" "20240403185746.000" "20240403120410.393":
+  entity multiplicador at 15( 383) + 0 on 1923;
+  architecture arq1 of multiplicador at 26( 680) + 0 on 1924;
+file "C:\Users\User\Documents\vhld-docs\Multiplicador\" "Multiplicador_tb.vhd" "20240403190146.000" "20240403120410.689":
+  entity multiplicador_tb at 15( 386) + 0 on 1925;
+  architecture testbench of multiplicador_tb at 22( 557) + 0 on 1926;
+file "C:\Users\User\Documents\vhld-docs\Booth\" "Booth_tb.vhd" "20240403192246.000" "20240404174617.236":
+  entity booth_tb at 15( 370) + 0 on 2013;
+  architecture testbench of booth_tb at 22( 525) + 0 on 2014;
+file "C:\Users\User\Documents\vhld-docs\ALU\" "ALU_tb.vhd" "20240509032054.000" "20240508202055.357":
+  entity alu_tb at 15( 366) + 0 on 2437;
+  architecture testbench of alu_tb at 22( 517) + 0 on 2438;
+file "C:\Users\User\Documents\vhld-docs\Memoria\" "Memoria.vhd" "20240416193030.000" "20240416123526.768":
+  entity memoria at 15( 385) + 0 on 2235;
+  architecture arq1 of memoria at 25( 662) + 0 on 2236;
+file "C:\Users\User\Documents\vhld-docs\Memoria\" "Memoria_tb.vhd" "20240416193352.000" "20240416123527.033":
+  entity memoria_tb at 15( 388) + 0 on 2237;
+  architecture testbench of memoria_tb at 22( 554) + 0 on 2238;
+file "C:\Users\User\Documents\vhld-docs\Registros\" "Registros.vhd" "20240510182956.000" "20240510112955.335":
+  entity registros at 15( 350) + 0 on 2595;
+  architecture arq1 of registros at 29( 754) + 0 on 2596;
+file "C:\Users\User\Documents\vhld-docs\ALU2\" "ALU2_tb.vhd" "20240604194434.000" "20240606023757.520":
+  entity alu2_tb at 15( 368) + 0 on 2747;
+  architecture testbench of alu2_tb at 22( 521) + 0 on 2748;
+file "C:\Users\User\Documents\vhld-docs\Procesador\" "Procesador.vhd" "20240607195934.000" "20240607125938.090":
+  entity procesador at 14( 376) + 0 on 3157;
+  architecture arq1 of procesador at 33( 992) + 0 on 3158;

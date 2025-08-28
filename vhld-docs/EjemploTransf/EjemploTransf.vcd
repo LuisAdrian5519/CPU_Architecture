@@ -1,0 +1,106 @@
+$date
+  Wed Mar 06 12:19:09 2024
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 1 ! l1 $end
+$var reg 1 " l2 $end
+$var reg 1 # clk $end
+$var reg 4 $ datoent[3:0] $end
+$var reg 4 % datosal[3:0] $end
+$var reg 1 & clock_on $end
+$scope module uut $end
+$var reg 4 ' datoent[3:0] $end
+$var reg 4 ( datosal[3:0] $end
+$var reg 1 ) l1 $end
+$var reg 1 * l2 $end
+$var reg 1 + clk $end
+$var reg 4 , salreg1[3:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+b0101 $
+b0000 %
+1&
+b0101 '
+b0000 (
+0)
+0*
+0+
+b0000 ,
+#25000000
+1#
+1+
+#50000000
+0#
+0+
+#75000000
+1#
+1+
+#100000000
+1!
+0#
+1)
+0+
+#125000000
+1#
+1+
+b0101 ,
+#150000000
+0#
+0+
+#175000000
+1#
+1+
+#200000000
+0!
+0#
+0)
+0+
+#225000000
+1#
+1+
+#250000000
+0#
+0+
+#275000000
+1#
+1+
+#300000000
+1!
+1"
+0#
+b1111 $
+b1111 '
+1)
+1*
+0+
+#325000000
+1#
+b0101 %
+b0101 (
+1+
+b1111 ,
+#350000000
+0#
+0+
+#375000000
+1#
+b1111 %
+b1111 (
+1+
+#400000000
+0#
+0&
+0+
+#425000000
+1#
+1+
+#450000000
