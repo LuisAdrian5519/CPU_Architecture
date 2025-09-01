@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sun Aug 31 18:49:40 2025
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : Practica01
+Top-level Entity Name : SumaRestaBCD
+Family : Cyclone 10 LP
+Device : 10CL006YE144A7G
+Timing Models : Final
+Total logic elements : 43 / 6,272 ( < 1 % )
+    Total combinational functions : 43 / 6,272 ( < 1 % )
+    Dedicated logic registers : 0 / 6,272 ( 0 % )
+Total registers : 0
+Total pins : 26 / 89 ( 29 % )
+Total virtual pins : 0
+Total memory bits : 0 / 276,480 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

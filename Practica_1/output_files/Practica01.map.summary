@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sun Aug 31 18:49:38 2025
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : Practica01
+Top-level Entity Name : SumaRestaBCD
+Family : Cyclone 10 LP
+Total logic elements : 43
+    Total combinational functions : 43
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 26
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

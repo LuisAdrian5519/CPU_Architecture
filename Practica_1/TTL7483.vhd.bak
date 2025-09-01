@@ -1,0 +1,26 @@
+-- Archivo: 
+-- Este modulo genera el complemento a 9 de un digito BCD de entrada
+
+library IEEE;
+use IEEE.std_logic_1164.all;  -- Para std_logic
+use IEEE.numeric_std.all;     -- Para unsigned
+
+entity TTL7483 is
+   port(a0, a1, a2, a3, b0, b1, b2, b3, cin : in std_logic;
+		s0, s1, s2, s3, cout : out std_logic);
+end TTL7483;
+
+architecture arq1 of TTL7483 is
+	signal A, B, C, Suma : unsigned (4 downto 0) := "00000";
+begin
+
+	A <= '0' & a3 & a2 & a1 & a0;
+	B <= '0' & b3 & b2 & b1 & b0;
+	C <= "0000" & cin;
+	Suma <= A + B + C;
+	s0 <= Suma(0);
+	s1 <= Suma(1);
+	s2 <= Suma(2);
+	s3 <= Suma(3);
+	cout <= Suma(4);
+end arq1;
