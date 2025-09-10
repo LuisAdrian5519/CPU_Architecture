@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Wed Sep  3 19:34:56 2025
+# Process ID: 14108
+# Current directory: C:/Users/Luis_Adrian/Documents/LuisAdrian/CETYS/CPU_Architecture/Practica1/Practica1.runs/impl_1
+# Command line: vivado.exe -log TopModule.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source TopModule.tcl -notrace
+# Log file: C:/Users/Luis_Adrian/Documents/LuisAdrian/CETYS/CPU_Architecture/Practica1/Practica1.runs/impl_1/TopModule.vdi
+# Journal file: C:/Users/Luis_Adrian/Documents/LuisAdrian/CETYS/CPU_Architecture/Practica1/Practica1.runs/impl_1\vivado.jou
+# Running On        :DESKTOP-MNCON82
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :26100
+# Processor Detail  :AMD Ryzen 5 7600X 6-Core Processor             
+# CPU Frequency     :4700 MHz
+# CPU Physical cores:6
+# CPU Logical cores :12
+# Host memory       :33397 MB
+# Swap memory       :17179 MB
+# Total Virtual     :50577 MB
+# Available Virtual :22199 MB
+#-----------------------------------------------------------
+source TopModule.tcl -notrace
