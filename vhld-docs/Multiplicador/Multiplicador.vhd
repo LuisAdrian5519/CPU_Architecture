@@ -17,7 +17,7 @@ use IEEE.std_logic_1164.all;  -- Para std_logic
 use IEEE.numeric_std.all;     -- Para unsigned
 
 entity Multiplicador is
-     port(Multiplicando, Multiplicadr : in std_logic_vector(3 downto 0);
+     port(Multiplicando, Multiplicador : in std_logic_vector(3 downto 0);
 			Producto : out std_logic_vector(7 downto 0);
 			clk : std_logic);
 
@@ -28,14 +28,14 @@ architecture arq1 of Multiplicador is
 begin
 
 
-process (C, Multiplicando, Multiplicadr, clk)
+process (C, Multiplicando, Multiplicador, clk)
 	variable tA, tM, tQ : std_logic_vector(4 downto 0) := "00000";
 begin
 	if rising_edge(clk) then 
 		case C is
 			when 10 => 
 				tA := "00000"; -- := es para variables
-				tM := '0' & Multiplicadr;
+				tM := '0' & Multiplicador;
 				tQ := '0' & Multiplicando;
 				C <= C-1;
 			when 9|7|5|3 => 
