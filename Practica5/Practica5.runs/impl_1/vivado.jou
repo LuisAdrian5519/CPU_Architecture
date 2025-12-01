@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sat Nov 22 14:57:19 2025
+# Process ID: 20128
+# Current directory: C:/Users/Luis_Adrian/Documents/LuisAdrian/CETYS/CPU_Architecture/Practica5/Practica5.runs/impl_1
+# Command line: vivado.exe -log ALU.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source ALU.tcl -notrace
+# Log file: C:/Users/Luis_Adrian/Documents/LuisAdrian/CETYS/CPU_Architecture/Practica5/Practica5.runs/impl_1/ALU.vdi
+# Journal file: C:/Users/Luis_Adrian/Documents/LuisAdrian/CETYS/CPU_Architecture/Practica5/Practica5.runs/impl_1\vivado.jou
+# Running On        :DESKTOP-MNCON82
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :26100
+# Processor Detail  :AMD Ryzen 5 7600X 6-Core Processor             
+# CPU Frequency     :4700 MHz
+# CPU Physical cores:6
+# CPU Logical cores :12
+# Host memory       :33397 MB
+# Swap memory       :4026 MB
+# Total Virtual     :37423 MB
+# Available Virtual :13250 MB
+#-----------------------------------------------------------
+source ALU.tcl -notrace

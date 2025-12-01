@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sat Nov 22 20:35:28 2025
+# Process ID: 24916
+# Current directory: C:/Users/Luis_Adrian/Documents/LuisAdrian/CETYS/CPU_Architecture/Practica4/Practica4.runs/synth_1
+# Command line: vivado.exe -log NP_4.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source NP_4.tcl
+# Log file: C:/Users/Luis_Adrian/Documents/LuisAdrian/CETYS/CPU_Architecture/Practica4/Practica4.runs/synth_1/NP_4.vds
+# Journal file: C:/Users/Luis_Adrian/Documents/LuisAdrian/CETYS/CPU_Architecture/Practica4/Practica4.runs/synth_1\vivado.jou
+# Running On        :DESKTOP-MNCON82
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :26100
+# Processor Detail  :AMD Ryzen 5 7600X 6-Core Processor             
+# CPU Frequency     :4700 MHz
+# CPU Physical cores:6
+# CPU Logical cores :12
+# Host memory       :33397 MB
+# Swap memory       :4026 MB
+# Total Virtual     :37423 MB
+# Available Virtual :8180 MB
+#-----------------------------------------------------------
+source NP_4.tcl -notrace

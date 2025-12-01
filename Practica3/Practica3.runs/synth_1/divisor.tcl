@@ -84,6 +84,8 @@ read_xdc C:/Users/Luis_Adrian/Documents/LuisAdrian/CETYS/CPU_Architecture/Practi
 set_property used_in_implementation false [get_files C:/Users/Luis_Adrian/Documents/LuisAdrian/CETYS/CPU_Architecture/Practica3/Practica3.srcs/constrs_1/new/restricciones_divisor.xdc]
 
 set_param ips.enableIPCacheLiteLoad 1
+
+read_checkpoint -auto_incremental -incremental C:/Users/Luis_Adrian/Documents/LuisAdrian/CETYS/CPU_Architecture/Practica3/Practica3.srcs/utils_1/imports/synth_1/divisor.dcp
 close [open __synthesis_is_running__ w]
 
 OPTRACE "synth_design" START { }
